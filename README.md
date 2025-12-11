@@ -37,6 +37,13 @@ Campos seus	Tipos e	Descrição:
  - parent_name	/ VARCHAR(100)	/ Nome do responsável
  - type_parent	/ VARCHAR(20)	/ Tipo de responsável (pai, mãe, etc.)
 
+📌 Tabela users
+Campos seus	Tipos e	Descrição:
+ - user_name / varchar(100) / Nome do usuário
+ - user_email / 	varchar(100) / Email do Usuário
+ - user_password / varchar(100) / Senha do usuário
+ - user_id / int (PK, AUTO_INCREMENT) / id para identificar no banco o usuário
+
 📁 Estrutura do Projeto
 /projeto-crud-php
 │
